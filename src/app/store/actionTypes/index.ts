@@ -1,0 +1,2 @@
+/** MOCK */
+export * from './mock';
